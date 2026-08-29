@@ -1,0 +1,6 @@
+{
+  "name": "3D Dreamz Decor",
+  "description": "Premium 2D planning, 3D architectural elevations, exterior design, and interior visualization studio based in Benson Town, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
